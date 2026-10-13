@@ -1,47 +1,93 @@
-Dados por Departamento
-Departamento	Função Principal	Quantidade de FuncionáriosAdministrativo	RH, financeiro, compras e gestão	8
-Comercial	Vendas, atendimento e relacionamento com clientes	10
-Suporte Técnico	Atendimento de chamados e suporte aos usuários	18
-Operações de Infraestrutura	Redes, servidores, segurança da informação e monitoramento	14
-Total		50
-Distribuição por Andar
-Andar	Departamento	Funcionários1º Andar	Administrativo	8
-2º Andar	Comercial	10
-3º Andar	Suporte Técnico	18
-4º Andar	Operações de Infraestrutura e Sala de Servidores	14
-Total		50
-Detalhamento dos Setores
+# 🏢 Empresa
 
-Administrativo (8 colaboradores)
+A empresa possui **50 colaboradores** distribuídos em quatro departamentos.
 
-1 Gerente Administrativo
-2 Analistas Financeiros
-2 Assistentes Administrativos
-2 Profissionais de RH
-1 Comprador
+---
 
-Comercial (10 colaboradores)
+# 📋 Estrutura Organizacional
 
-1 Gerente Comercial
-6 Executivos de Vendas
-2 Analistas de Relacionamento
-1 Assistente Comercial
+## Administrativo
+**Função:** RH, Financeiro, Compras e Gestão
 
-Suporte Técnico (18 colaboradores)
+**Colaboradores:** 8
 
-1 Coordenador de Suporte
-12 Técnicos de Suporte
-3 Analistas de Service Desk
-2 Especialistas de Campo
+### Cargos
+- Gerente Administrativo (1)
+- Analistas Financeiros (2)
+- Assistentes Administrativos (2)
+- Profissionais de RH (2)
+- Comprador (1)
 
-Operações de Infraestrutura (14 colaboradores)
+---
 
-1 Gerente de Infraestrutura
-4 Administradores de Redes
-3 Administradores de Sistemas
-3 Analistas de Segurança da Informação
-2 Analistas de Monitoramento
-1 Especialista em Backup e Continuidade
+## Comercial
+**Função:** Vendas, atendimento e relacionamento com clientes
 
-Essa distribuição mantém o foco da empresa em serviços de TI, concentrando a maior parte dos colaboradores nas áreas técnicas (Suporte e Infraestrutura), que juntas representam 32 dos 50 funcionários (64%) da organização.
+**Colaboradores:** 10
 
+### Cargos
+- Gerente Comercial (1)
+- Executivos de Vendas (6)
+- Analistas de Relacionamento (2)
+- Assistente Comercial (1)
+
+---
+
+## Suporte Técnico
+**Função:** Atendimento de chamados e suporte aos usuários
+
+**Colaboradores:** 18
+
+### Cargos
+- Coordenador de Suporte (1)
+- Técnicos de Suporte (12)
+- Analistas de Service Desk (3)
+- Especialistas de Campo (2)
+
+---
+
+## Operações de Infraestrutura
+**Função:** Redes, servidores, segurança da informação e monitoramento
+
+**Colaboradores:** 14
+
+### Cargos
+- Gerente de Infraestrutura (1)
+- Administradores de Redes (4)
+- Administradores de Sistemas (3)
+- Analistas de Segurança da Informação (3)
+- Analistas de Monitoramento (2)
+- Especialista em Backup e Continuidade (1)
+
+---
+
+# 🏢 Distribuição por Andar
+
+### 1º Andar
+- Departamento Administrativo
+- 8 colaboradores
+
+### 2º Andar
+- Departamento Comercial
+- 10 colaboradores
+
+### 3º Andar
+- Departamento de Suporte Técnico
+- 18 colaboradores
+
+### 4º Andar
+- Departamento de Operações de Infraestrutura
+- Sala de Servidores
+- 14 colaboradores
+
+---
+
+# 📊 Resumo Geral
+
+- Total de colaboradores: **50**
+- Administrativo: **8**
+- Comercial: **10**
+- Suporte Técnico: **18**
+- Operações de Infraestrutura: **14**
+
+As áreas técnicas (Suporte Técnico e Operações de Infraestrutura) concentram **32 colaboradores**, correspondendo a **64% do quadro funcional** da empresa.
