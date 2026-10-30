@@ -19,8 +19,8 @@ Comece pela pasta **01-Empresa** para conhecer a organização da BVA Tech Solut
 - Draw.io: [Adicionar arquivo ou link]
  
 ## Ferramentas utilizada
-- 
-- 
+- Excel
+- Word
 - Draw.io
 - Cisco Packet Tracer
 - Tinkercad
@@ -28,4 +28,4 @@ Comece pela pasta **01-Empresa** para conhecer a organização da BVA Tech Solut
  
 ## Última atualização
  
-02/10/2026
+30/10/2026
