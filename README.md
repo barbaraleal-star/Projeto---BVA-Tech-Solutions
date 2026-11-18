@@ -16,7 +16,7 @@ Comece pela pasta **01-Empresa** para conhecer a organização da BVA Tech Solut
 ## Links técnicos
 - Tinkercad: [Adicionar link do projeto]
 - Packet Tracer: [Adicionar arquivo ou link]
-- Draw.io: [Adicionar arquivo ou link]
+- Draw.io: https://drive.google.com/file/d/1GxWT1Cnco1FD8BjFTYBpNVQmVYI7-vTl/view?usp=sharing
  
 ## Ferramentas utilizada
 - Excel
@@ -28,4 +28,4 @@ Comece pela pasta **01-Empresa** para conhecer a organização da BVA Tech Solut
  
 ## Última atualização
  
-30/10/2026
+18/11/2026
