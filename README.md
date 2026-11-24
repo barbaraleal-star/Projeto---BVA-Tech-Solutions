@@ -14,7 +14,7 @@ Planejamento de infraestrutura para uma empresa fictícia de tecnologia da infor
 Comece pela pasta **01-Empresa** para conhecer a organização da BVA Tech Solutions e, em seguida, siga as pastas **02 a 05** para analisar cada etapa do projeto.
  
 ## Links técnicos
-- Tinkercad: [Adicionar link do projeto]
+- Tinkercad: https://www.tinkercad.com/things/4N1m7I9Cy4r/editel?sharecode=pKS6GtOUIibWkP6sf5DJd4XyFncCQyHcdEBNkKiuk_8
 - Packet Tracer: [Adicionar arquivo ou link]
 - Draw.io: https://drive.google.com/file/d/1GxWT1Cnco1FD8BjFTYBpNVQmVYI7-vTl/view?usp=sharing
  
@@ -28,4 +28,4 @@ Comece pela pasta **01-Empresa** para conhecer a organização da BVA Tech Solut
  
 ## Última atualização
  
-18/11/2026
+24/11/2026
