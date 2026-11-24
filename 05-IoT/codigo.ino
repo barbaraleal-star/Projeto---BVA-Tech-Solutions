@@ -4,7 +4,7 @@ const int AMARELO = 3;
 const int VERMELHO = 4;
 
 const float LIMITE_ATENCAO = 27.0;
-const float LIMITE_CRITICO = 32.0;
+const float LIMITE_CRITICO = 31.0;
 
 void setup() {
   pinMode(VERDE, OUTPUT);
