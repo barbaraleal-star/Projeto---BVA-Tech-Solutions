@@ -15,7 +15,7 @@ Comece pela pasta **01-Empresa** para conhecer a organização da BVA Tech Solut
  
 ## Links técnicos
 - Tinkercad: https://www.tinkercad.com/things/4N1m7I9Cy4r/editel?sharecode=pKS6GtOUIibWkP6sf5DJd4XyFncCQyHcdEBNkKiuk_8
-- Packet Tracer: [Adicionar arquivo ou link]
+- Packet Tracer: ![Topologia da rede BVA Tech no Packet Tracer](04-Redes/imagens/planta_pkt.png)
 - Draw.io: https://drive.google.com/file/d/1GxWT1Cnco1FD8BjFTYBpNVQmVYI7-vTl/view?usp=sharing
  
 ## Ferramentas utilizada
