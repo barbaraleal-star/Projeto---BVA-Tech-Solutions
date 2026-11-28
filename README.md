@@ -28,4 +28,4 @@ Comece pela pasta **01-Empresa** para conhecer a organização da BVA Tech Solut
  
 ## Última atualização
  
-24/11/2026
+28/11/2026
