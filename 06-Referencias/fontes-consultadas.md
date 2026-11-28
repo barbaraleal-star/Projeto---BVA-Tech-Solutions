@@ -1,4 +1,4 @@
-# Referencias
+# Fontes consultadas
 
 Referências usadas no Projeto de Infraestrutura Computacional da BVA Tech Solutions.
 
